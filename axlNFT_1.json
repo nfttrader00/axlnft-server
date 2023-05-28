@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "description": "My AXLNFT Collection character Green",
+  "external_url": "this-external-url-2",
+  "image": "https://ibb.co/PZQ41Gz",
+  "name": "AXLNFT 2",
+  "attributes": [
+        {
+            "type": "Green",
+            "value": 80
+        }
+    ]
+}
