@@ -1,0 +1,30 @@
+{
+  "nfts": [
+    {
+      "id": 0,
+      "description": "My AXLNFT Collection character Yellow",
+      "external_url": "this-external-url-1",
+      "image": "https://i.ibb.co/j4Q1VXT/2ppg.png",
+      "name": "AXLNFT 1",
+      "attributes": [
+        {
+          "type": "Yellow",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "description": "My AXLNFT Collection character Green",
+      "external_url": "this-external-url-2",
+      "image": "https://i.ibb.co/ynS5gFB/1ppg.jpg",
+      "name": "AXLNFT 2",
+      "attributes": [
+        {
+          "type": "Green",
+          "value": 80
+        }
+      ]
+    }
+  ]
+}
