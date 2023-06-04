@@ -21,8 +21,20 @@
       "name": "AXLNFT 2",
       "attributes": [
         {
-          "type": "Green",
-          "value": 80
+          "trait_type": "Staking",
+          "value": "Active"
+        },
+        {
+          "trait_type": "Mining",
+          "value": "Deactive"
+        },
+        {
+          "trait_type": "Member",
+          "value": "Deactive"
+        },
+        {
+          "trait_type": "Crypto Club",
+          "value": "Deactive"
         }
       ]
     }
