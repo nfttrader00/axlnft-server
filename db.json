@@ -37,6 +37,31 @@
           "value": "Deactive"
         }
       ]
+    },
+    {
+      "id": 2,
+      "description": "My AXLNFT Character 3",
+      "external_url": "this-external-url-3",
+      "image": "https://i.ibb.co/f1qWQqj/Ekran-Resmi-2023-06-01-12-58-52.png",
+      "name": "AXLNFT 3",
+      "attributes": [
+        {
+          "trait_type": "Staking",
+          "value": "Active"
+        },
+        {
+          "trait_type": "Mining",
+          "value": "Deactive"
+        },
+        {
+          "trait_type": "Member",
+          "value": "Active"
+        },
+        {
+          "trait_type": "Crypto Club",
+          "value": "Deactive"
+        }
+      ]
     }
   ]
 }
