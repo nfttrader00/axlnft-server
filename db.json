@@ -15,10 +15,10 @@
     },
     {
       "id": 1,
-      "description": "My AXLNFT Collection character Green",
+      "description": "My AXLNFT Collection character SMALL",
       "external_url": "this-external-url-2",
-      "image": "https://i.ibb.co/v3gvZkh/ORI01.jpg",
-      "name": "AXLNFT 2",
+      "image": "https://i.ibb.co/vwQyHvN/ORI-SMALL.jpg",
+      "name": "AXLNFT SML",
       "attributes": [
         {
           "trait_type": "Staking",
